@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    /*
+        While Loop:
+            while(condition)
+            {
+                statements;
+            }
+    */
+    int n = 10;
+    while (n>0) 
+    {
+        cout << n << ", ";
+        --n;
+    }
+    cout << "liftoff!\n";
+
+   
+    
+    return 0;
+}
