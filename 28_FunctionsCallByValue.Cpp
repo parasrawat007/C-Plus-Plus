@@ -3,7 +3,7 @@ using namespace std;
 
 /*
   Call by Value:
-  It is means fuction will make of the variable passed in arguments copy and then
+  It is means fuction will make copy of the variable passed in arguments and then
   use them.
 */
 
